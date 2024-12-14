@@ -43,6 +43,3 @@ Différentes étapes dans l'ordre
 
 ![21](https://github.com/user-attachments/assets/11351115-512c-4f5c-801a-4f4e6596a568)
 
-
-
-# **Exercice 2: Script de création d'utilisateurs en bash** 📚 

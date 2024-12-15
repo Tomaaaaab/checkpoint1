@@ -49,7 +49,7 @@
    ```
 
 6. **Commande `jobs -l | grep 'ged'`**  
-   La commande `jobs -l | grep 'ged'` permet de mettre en avant le processus `gedit`.
+   La commande `jobs -l | grep '*ged'` permet de mettre en avant le processus `gedit`.
 
 7. **Modèle OSI - Couches 2 et 3**  
    - **Couche 2** (Liaison) : Les équipements comme les **switches** et **hubs** envoient des trames vers la couche 3.  
